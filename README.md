@@ -1,4 +1,4 @@
-# teste-deploy-vue
+# A Simple Vue Application Example Deployed on Heroku Platform
 
 ## Project setup
 ```
